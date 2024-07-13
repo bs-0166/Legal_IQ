@@ -1,21 +1,17 @@
-# Legal.ly - _law for all_
-**Team Hopium - Hackathon Coding Sprint**
-<br/>
-**Problem Statement - Chatbot - Legal, Tax, and Compliance**
-<br/>
+# Legal-IQ - Your Legal Companion
 
-![legal.ly_main](https://github.com/sudo-logic/Project-Legal.ly/blob/main/forgithub.png)
+![Legal-IQ_main](https://github.com/sudo-logic/Project-Legal-IQ/blob/main/forgithub.png)
 
-<br/>**Legal.ly**, is a chatbot that provides factual and appropriate information to legal queries from central acts. 
+<br/>**Legal-IQ**, is a chatbot that provides factual and appropriate information to legal queries from central acts. 
 <br/>
-<br/>This chatbot can be effectively applied to the legal sector providing swift access to justice. Legal.ly is designed specifically to help individuals seek accurate legal information. Information is sourced directly from the Central Acts of India, hence eliminating any misinformation.
+<br/>This chatbot can be effectively applied to the legal sector providing swift access to justice. Legal-IQ is designed specifically to help individuals seek accurate legal information. Information is sourced directly from the Central Acts of India, hence eliminating any misinformation.
 
-Our project aims at building a specialised task-oriented chatbot, named as Legal.ly, which will allow users to ask questions; thus,democratizing legal, tax and compliance. 
+Our project aims at building a specialised task-oriented chatbot, named as Legal-IQ, which will allow users to ask questions; thus,democratizing legal, tax and compliance. 
 
 The prime objective is to structure an intelligent chatbot, which is not only data-driven but also incorporates machine learning and deep learning algorithms to map input sequences to output sequences.
-<br/>Legal.ly provides 24-hour legal assistance and is reliable in emergencies too.
+<br/>Legal-IQ provides 24-hour legal assistance and is reliable in emergencies too.
 <br/>
-<br/>Legal.ly responds to both voice and text for increased accessibility.
+<br/>Legal-IQ responds to both voice and text for increased accessibility.
 
 ## For more information [Presentation](https://pitch.com/public/9c74e7cd-dc0f-4d6a-8659-0bdcf709b1fd)
 
@@ -34,7 +30,7 @@ GPT-3, Seq2Seq, reinforcement learning based chatbots and a hybrid of those are 
 
 
 ## UI MOCKUPS
-![Why_UPN](https://github.com/sudo-logic/Project-Legal.ly/blob/main/UI_Mockup.png)
+![Why_UPN](https://github.com/sudo-logic/Project-Legal-IQ/blob/main/UI_Mockup.png)
 
 ## Deployment
 
